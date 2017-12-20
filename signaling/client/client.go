@@ -8,8 +8,8 @@ import (
 	"net/url"
 	"sync"
 
+	"github.com/arsasm/p2pfw/signaling"
 	"github.com/goxjs/websocket"
-	"github.com/nobonobo/p2pfw/signaling"
 )
 
 var (

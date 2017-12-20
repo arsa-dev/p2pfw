@@ -10,8 +10,8 @@ import (
 	"os/signal"
 	"strings"
 
-	"github.com/nobonobo/p2pfw/signaling"
-	"github.com/nobonobo/p2pfw/signaling/client"
+	"github.com/arsasm/p2pfw/signaling"
+	"github.com/arsasm/p2pfw/signaling/client"
 )
 
 // PROMPT ...

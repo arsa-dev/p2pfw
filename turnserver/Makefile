@@ -1,6 +1,6 @@
 NAME := turnserver
 TAG  := nobonobo/$(NAME)
-PKG=github.com/nobonobo/p2pfw/turnserver
+PKG=github.com/arsasm/p2pfw/turnserver
 export GOPATH:=$(shell cd ../../../../..; pwd):$(GOPATH)
 TARVER := 4.5.0.4
 TARBALL := turnserver-$(TARVER).tar.gz

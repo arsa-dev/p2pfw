@@ -1,6 +1,6 @@
 NAME := signaling
 TAG  := nobonobo/$(NAME)
-PKG=github.com/nobonobo/p2pfw/signaling/server
+PKG=github.com/arsasm/p2pfw/signaling/server
 export GOPATH:=$(GOPATH):$(shell cd ../../../../../..; pwd)
 
 push: build

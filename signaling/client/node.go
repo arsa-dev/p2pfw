@@ -1,7 +1,7 @@
 package client
 
 import (
-	"github.com/nobonobo/p2pfw/signaling"
+	"github.com/arsasm/p2pfw/signaling"
 )
 
 // Dispatcher ...

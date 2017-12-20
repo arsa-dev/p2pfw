@@ -14,8 +14,8 @@ import (
 	"github.com/rs/cors"
 	"golang.org/x/net/websocket"
 
-	jrpc "github.com/nobonobo/p2pfw/jsonrpc"
-	"github.com/nobonobo/p2pfw/signaling"
+	jrpc "github.com/arsasm/p2pfw/jsonrpc"
+	"github.com/arsasm/p2pfw/signaling"
 )
 
 // Signaling ...

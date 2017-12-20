@@ -1,4 +1,4 @@
-PKG=github.com/nobonobo/p2pfw/signaling/sample
+PKG=github.com/arsasm/p2pfw/signaling/sample
 export GOPATH:=$(shell cd ../../../../../..; pwd):$(GOPATH)
 OPT=-c master -u master
 
