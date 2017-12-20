@@ -7,7 +7,7 @@ import (
 
 // GetDefaultStunHosts ...
 func GetDefaultStunHosts() (string, error) {
-	resp, err := http.Get("https://signaling.arukascloud.io/stun")
+	resp, err := http.Get("https://signaling.futurnet.net/stun")
 	if err != nil {
 		return "", err
 	}
